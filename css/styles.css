@@ -5,7 +5,7 @@
 }
 
 .jumbotron{
-  background-image: url("https://github.com/arvindkumar-prog/Luigi-s-lasagne/blob/main/imageonline-co-blurimage.jpg");
+  background-image: url("../images/imageonline-co-blurimage.jpg");
   height: 80vh;
   background-size: cover;
   background-position: center;
