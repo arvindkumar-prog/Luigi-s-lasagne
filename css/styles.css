@@ -1,0 +1,113 @@
+.{
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.jumbotron{
+  background-image: url("C:/Users/arvind kumar/Desktop/restaurent/images/imageonline-co-blurimage.png");
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  background-color: #fff;
+  border-radius: 0px;
+}
+
+.jumbotron h1{
+
+  margin: 30px 0;
+  font-size: 5.5rem;
+  line-height: 1.5;
+  font-family: 'Dancing Script', cursive;
+  color: #EADCA6;
+}
+.jumbotron h3{
+  font-family: 'Cutive Mono', monospace;
+  font-size: 3rem;
+
+  color: #fff;
+}
+.intro{
+  padding-top: 160px;
+}
+.navbar-nav a{
+  color: #fff!important;
+  margin: 0 20px;
+  margin-top: 30px;
+  font-size: 1rem;
+}
+.nav-link{
+  color: #fff;
+  font-family: 'Cutive Mono', monospace;
+
+}
+
+.nav-link:hover{
+  color: #fff;
+  font-weight:bold;
+
+}
+.info{
+  padding:3% 3%;
+  margin-left: 20px;
+}
+
+.reserve{
+  margin: 3% 40% 5% ;
+  font-family: 'Cutive Mono', monospace;
+}
+
+.one{
+  font-family: 'Cutive Mono', monospace;
+}
+
+.iamge2{
+
+  width: 100px;;
+}
+
+.we{
+  text-align: center;
+  font-family: 'Cutive Mono', monospace;
+  font-weight: bold;
+}
+
+.vegan{
+  text-align: center;
+  font-family: 'Cutive Mono', monospace;
+  font-weight: bold;
+}
+#specialities{
+  padding: 5% 10%;
+}
+
+#about{
+  padding-top: 5%;
+  text-align: center;
+}
+
+#desserts{
+  padding: 5% 10%;
+}
+
+#thrla{
+  padding: 3%;
+  text-align: center;
+
+}
+
+.four{
+    font-family: 'Cutive Mono', monospace;
+    margin-top: 150px;
+}
+
+
+
+
+#footer{
+  padding: 7% 10%;
+  text-align:center;
+}
+.social{
+  margin:10px 15px 5px;
+}
